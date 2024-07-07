@@ -16,7 +16,7 @@ This is a project focused on creating a peer-to-peer structured overlay network 
 
 #How to Start the Project
 
--Clone the Repository:
+- Clone the Repository:
 git clone https://github.com/your-username/dht.git
 
 - Build the Project with Maven:
